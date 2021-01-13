@@ -1,17 +1,20 @@
 {
   "Traitement": {
+    "id" : 1,
     "libelle": "Appariement DSN et Enquête Emploi",
     "organisme": "DERA",
     "dateCreation": "29/06/2020",
     "dateCloture": "09/01/2021"
   },
     "Traitement": {
+    "id" : 2,
     "libelle": "Appariement DSN et RP",
     "organisme": "DD",
     "dateCreation": "29/06/2020",
     "dateCloture": ""
   },
   "Operation": {
+    "id": 1,
     "libelle": "Opération 1",
     "dateCreation": "29/08/20"
   }
