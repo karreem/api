@@ -5,12 +5,5 @@
     "organisme": "DERA",
     "dateCreation": "29/06/2020",
     "dateCloture": "09/01/2021"
-  },
-    "Traitement": {
-    "id" : 2,
-    "libelle": "Appariement DSN et RP",
-    "organisme": "DD",
-    "dateCreation": "29/06/2020",
-    "dateCloture": ""
   }
 }
