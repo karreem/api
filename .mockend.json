@@ -12,10 +12,5 @@
     "organisme": "DD",
     "dateCreation": "29/06/2020",
     "dateCloture": ""
-  },
-  "Operation": {
-    "id": 1,
-    "libelle": "Opération 1",
-    "dateCreation": "29/08/20"
   }
 }
